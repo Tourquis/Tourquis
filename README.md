@@ -1,4 +1,4 @@
-# 🔥 Halide — Mobile & Web Developer
+# 🔥 Halide Tourquis — Mobile & Web Developer
 
 Building **high-performance apps** with Expo, React Native, Next.js & WordPress.
 
@@ -14,4 +14,4 @@ Building **high-performance apps** with Expo, React Native, Next.js & WordPress.
 
 ## 📊 Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=codeSTACKr)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tourquis&layout=compact&theme=codeSTACKr)
